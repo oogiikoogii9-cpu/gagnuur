@@ -1,0 +1,6 @@
+{
+  "name": "Гагнуурын Оёо — Интерактив Хичээл",
+  "description": "Гагнуурын холболт, оёоны хэлбэр, ирмэг засал, байрлал болон ISO 2553 зургийн тэмдэглэгээг сурах интерактив вэб хичээл.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
